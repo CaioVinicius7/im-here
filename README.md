@@ -53,11 +53,9 @@ $ yarn
 
 # Rode o projeto
 $ yarn start
-
-# Após rodar o comando yarn start abra o app Expo Go em seu dispositivo físico e leia o qr code que sera exibido no terminal ou abra seu emulador e aperte a tecla A no terminal
 ```
 
-Obs: Após clonar o repositório crie e preencha o arquivo `.env.local` seguindo o exemplo do arquivo `.env.local`
+Obs: Após rodar o comando yarn start abra o app Expo Go em seu dispositivo físico e leia o qr code que sera exibido no terminal ou abra seu emulador e aperte a tecla A no terminal
 
 <br>
 
