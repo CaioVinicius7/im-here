@@ -26,12 +26,12 @@ Esse é o primeiro projeto da trilha de react native do ignite de 2022 da [Rocke
 
 ## 📝 Páginas
 
-<div style="display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center">
-  <img src="https://i.imgur.com/eO7gRal.jpg" width="30%" />
+<div style="display: flex; gap: 3%; flex-wrap: wrap; justify-content: center">
+  <img src="https://i.imgur.com/eO7gRal.jpg" width="30%" style="margin-top: 2rem" />
 
-  <img src="https://i.imgur.com/0eQPdxp.jpg" width="30%" />
+  <img src="https://i.imgur.com/0eQPdxp.jpg" width="30%" style="margin-top: 2rem" />
   
-  <img src="https://i.imgur.com/W81f85q.jpg" width="30%" />
+  <img src="https://i.imgur.com/W81f85q.jpg" width="30%" style="margin-top: 2rem" />
 </div>
 
 <br>
